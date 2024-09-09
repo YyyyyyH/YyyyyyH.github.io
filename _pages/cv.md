@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MPhil in Data Intensive Science, University of Cambridge, 2023 Oct - 2024 Jul 
+* BSc in Financial Mathematics, University of Leeds, 2020 Sep - 2023 Jul
 
 Work experience
 ======
